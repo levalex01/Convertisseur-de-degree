@@ -4,7 +4,7 @@
 Cette application est une simple interface graphique créée avec Tkinter en Python. Elle permet à l'utilisateur de saisir un degrée sois en Celsius, Fahrenheit ou en Kelvin et d'afficher ce degrée transformer sois en Celsius, Fahrenheit ou en Kelvin.
 
 ## Fonctionnalités
-- **Saisie de degrée**: Permet à l'utilisateur de saisir son poids en livres ou en Kilo.
+- **Saisie de degrée**: Permet à l'utilisateur de faire la convertion entre Celsius, fahrenheit et kelvin.
 - **Affichage de degrée**: Affiche le poids saisi par l'utilisateur dans une zone de texte.
 - **permet la convertion**: Vous pouvez faire la convertion entre Celsius, fahrenheit et kelvin.
 - **Calculatrice de degrée**: Comme avec une calculatrice tu peux continuer sur la même entrée mais le résultat sera différent.
